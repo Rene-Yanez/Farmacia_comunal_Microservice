@@ -1,0 +1,4 @@
+cl\farmacia\clientes\model\Cliente.class
+cl\farmacia\clientes\ClientesApplication.class
+cl\farmacia\clientes\repository\ClienteRepository.class
+cl\farmacia\clientes\controller\ClienteController.class

@@ -1,0 +1,4 @@
+cl\farmacia\solicitudes\model\Solicitud.class
+cl\farmacia\solicitudes\SolicitudesApplication.class
+cl\farmacia\solicitudes\repository\SolicitudRepository.class
+cl\farmacia\solicitudes\controller\SolicitudController.class

@@ -1,0 +1,4 @@
+cl\farmacia\productos\ProductosApplication.class
+cl\farmacia\productos\model\Producto.class
+cl\farmacia\productos\controller\ProductoController.class
+cl\farmacia\productos\repository\ProductoRepository.class
